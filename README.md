@@ -59,12 +59,13 @@ The recommendation module implements a dual-mode strategy depending on the user'
 ---
 
 ## 📂 Project Structure
+
 smart-digital-library-mvc/ 
-├── main.py # Application entry point &amp; Tkinter event loop initialization 
-├── model.py # Data models, OOP hierarchy, Singleton DB, and Factory 
-├── view.py # Tkinter GUI layouts (LoginView, AdminDashboard, UserDashboard) 
-├── controller.py # Event handling, authentication, and state management 
-└── README.md # Project documentation
+├── main.py         # Application entry point &amp; Tkinter event loop initialization 
+├── model.py        # Data models, OOP hierarchy, Singleton DB, and Factory 
+├── view.py         # Tkinter GUI layouts (LoginView, AdminDashboard, UserDashboard) 
+├── controller.py   # Event handling, authentication, and state management 
+└── README.md       # Project documentation
 
 
 ---
